@@ -7,6 +7,7 @@ class App extends Component{
         <div>
             <h1>Hello, React my home !!</h1>
             <p>This is my second github command</p>
+            <p>This is my third github repository in new-branch</p>
         </div>
     );
    }
